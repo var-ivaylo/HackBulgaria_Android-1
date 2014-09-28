@@ -25,6 +25,9 @@ public class StainedGlassFilter {
 	}
 
 	public static void main(String[] args) {
+		if (args.length != 3)
+			throw new IllegalArgumentException("You must provide a input image as the first parameter, output image name as second and number of points as third.");
+		
 		StainedGlassFilter filter = new StainedGlassFilter();
 		filter.filter(args[0], args[1], Integer.parseInt(args[2]));
 	}
