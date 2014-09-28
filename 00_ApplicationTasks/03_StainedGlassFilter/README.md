@@ -34,8 +34,8 @@ Add an optional argument that determines how many regions the output image will 
 For example `java stainedGlassFilter input.jpg output.jpg 10000`
 
 ### The Goal!
-**Example input**
+**Example input**  
 ![Monokuma](images/input.jpg "upupupu")
 
-**Example output**
-!Monokuma(images/output.jpg "upupupu")
+**Example output**  
+![Monokuma](images/output.jpg "upupupu")
