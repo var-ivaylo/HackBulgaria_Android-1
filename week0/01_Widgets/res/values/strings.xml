@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Widgets</string>
+    <string name="task_1_label">Fun with Flags!</string>
+    <string name="task_2_label">Video Player</string>
+    <string name="action_settings">Settings</string>
+    
+    <string name="back">Back</string>
+    
+    <string name="first_task_name">Color Changer</string>
+    <string name="second_task_name">Video Player</string>
+    
+    <string name="color_hint">color (HEX)</string>
+    
+    <string name="video_name">/Ronaldo_Dive_Moti.mp4</string>
+
+</resources>
