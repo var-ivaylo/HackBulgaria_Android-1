@@ -1,0 +1,44 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.hackbulgaria.androidcourse.week2.drawablebrush.SplashActivity" >
+
+    <LinearLayout
+        android:id="@+id/brush_menu"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal" >
+
+        <ImageButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@drawable/button_bg"
+            android:onClick="selectBrush"
+            android:src="@drawable/dota2" />
+
+        <ImageButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@drawable/button_bg"
+            android:onClick="selectBrush"
+            android:src="@drawable/lol" />
+
+        <ImageButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@drawable/button_bg"
+            android:onClick="selectBrush"
+            android:src="@drawable/monokuma" />
+    </LinearLayout>
+
+    <com.hackbulgaria.androidcourse.week2.drawablebrush.BrushView
+        android:id="@+id/my_custom_view"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/brush_menu" />
+
+</RelativeLayout>

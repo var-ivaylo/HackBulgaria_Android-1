@@ -7,3 +7,11 @@
 * [*week0*](https://github.com/var-ivaylo/HackBulgaria_Android-1/tree/master/week0)  
   * [**00**](https://github.com/var-ivaylo/HackBulgaria_Android-1/tree/master/week0/00_Layouts) Layouts  
   * [**01**](https://github.com/var-ivaylo/HackBulgaria_Android-1/tree/master/week0/01_Widgets) Widgets  
+* [*week1*](https://github.com/var-ivaylo/HackBulgaria_Android-1/tree/master/week1)  
+  * [**00**](https://github.com/var-ivaylo/HackBulgaria_Android-1/tree/master/week1/00_PuzzleGame) Puzzle Game  
+  * [**01**](https://github.com/var-ivaylo/HackBulgaria_Android-1/tree/master/week1/01_GestureImage) Gesture Image  
+  * [**02**](https://github.com/var-ivaylo/HackBulgaria_Android-1/tree/master/week1/02_SwipeAndZoom) Swipe And Zoom  
+* [*week2*](https://github.com/var-ivaylo/HackBulgaria_Android-1/tree/master/week2)  
+  * [**00**](https://github.com/var-ivaylo/HackBulgaria_Android-1/tree/master/week2/00_AnimatedPuzzleGame) Animated Puzzle Game  
+  * [**01**](https://github.com/var-ivaylo/HackBulgaria_Android-1/tree/master/week2/01_KeyFrameAnimator) Key Frame Animator  
+  * [**02**](https://github.com/var-ivaylo/HackBulgaria_Android-1/tree/master/week2/02_DrawableBrush) Drawable Brush  
